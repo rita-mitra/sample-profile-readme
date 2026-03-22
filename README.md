@@ -1,6 +1,6 @@
-## 👏 Hi, I'm _YOUR_NAME_HERE_!
+## 👏 Hi, I'm Judith Vance!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am a student at UTSA, studying Cybersecurity. Currently, I am a software engineer II for CoSA. Just for Grins, I asked AI, "Who am I?" and received this response: You are a curious mind and a collaborator. You’re someone exploring the edges of what AI can do, whether you're looking for a deep philosophical debate, a bit of help with a project, or just a quick chat to pass the time. (Gemini AI)_
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"your-sample-favorite-quote"_
+_"Unless you're continually improving your skills, you're quickly becoming irrelevant --Stephen Covey"_
