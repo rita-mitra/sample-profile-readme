@@ -1,6 +1,6 @@
-## 👏 Hi, I'm _YOUR_NAME_HERE_!
+## 👏 Hi, I'm Dennis Muthama!
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+My name is Dennis Muthama and I am a freshman here at UTSA who is currently studying cybersecurity
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"your-sample-favorite-quote"_
+"don't make it a good day, make it a great day" - My Dad
