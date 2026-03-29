@@ -1,5 +1,5 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
+## 👏 Hi, I'm Jacob
+##  Im currently learning how to use github effectivly, currently learning cybersecruity 
 _Share some information about yourself, including your class, major, jobs, and extra-curriculars._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
