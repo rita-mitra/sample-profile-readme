@@ -1,5 +1,5 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
+## 👏 Hi, I'm Brandon Keener
+##  I am a UTSA student I work at a Hyundai Dealership for service, I will be Class of 2028 with a Major in BBA and Cybersecurity.
 _Share some information about yourself, including your class, major, jobs, and extra-curriculars._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"This will work"_
