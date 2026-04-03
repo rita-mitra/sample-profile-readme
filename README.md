@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Jose Padilla
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I'm a student interested in cybersecurity and technology. I enjoy learning how systems work and improving my technical skills.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +13,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+" Stay consistent.Results will come"
