@@ -1,6 +1,5 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+Jamil Garba
+Hey, My name is Jamil Garba I am from austin texas. I am currently a upcoming sophmore,I am majoring is buisness finance. I chose this degree to help me get a gauge of the buisness field and also stocks, my goal from this is to be my own boss. Aside from school, I played sports my whole life but that was cut short due to injuries. I still play basketball in my free time and lift every day as well.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,4 +12,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+"Do what you need to do to be succesful - Meek Mill"
